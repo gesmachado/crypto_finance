@@ -1,0 +1,3 @@
+https://stackabuse.com/saving-text-json-and-csv-to-a-file-in-python/
+https://www.programiz.com/python-programming/datetime/current-datetime
+https://pt.stackoverflow.com/questions/458556/python-print-format-ou-print-str
